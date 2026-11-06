@@ -12,23 +12,23 @@ class Postext < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/drnachio/postext/releases/download/v1.70.3/postext-macos-arm64"
-      sha256 "7ea8a7ec7ac856181c68724d1840bf4bd6ec594bf6430099d7f53d51b4f7defa"
+      url "https://github.com/drnachio/postext/releases/download/v1.70.4/postext-macos-arm64"
+      sha256 "0cc48eb4ffc8a6b37810825efa77a959c392b06dd2bc375487d4cd08257f4e2f"
     end
     on_intel do
-      url "https://github.com/drnachio/postext/releases/download/v1.70.3/postext-macos-x64"
-      sha256 "b1cc8e79dbd77e4864bf800515391709952b06a1caae5b8b680f50e7c9d6be1b"
+      url "https://github.com/drnachio/postext/releases/download/v1.70.4/postext-macos-x64"
+      sha256 "bba8358e86981a4022730511b109349e93e3ea020fbf5ee55b11c1a5b23e61f1"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/drnachio/postext/releases/download/v1.70.3/postext-linux-arm64"
-      sha256 "4ddb45f101eeaaf54df60c7739a5544b642f68b7c99178368a3ac75b0da1018e"
+      url "https://github.com/drnachio/postext/releases/download/v1.70.4/postext-linux-arm64"
+      sha256 "088f3bc4ae9b38b558f44586a3f49b40acb4079141137699ca63db96399ab2bd"
     end
     on_intel do
-      url "https://github.com/drnachio/postext/releases/download/v1.70.3/postext-linux-x64"
-      sha256 "3e257320f2e2f63e06df4ac3c191cada7e8944e2015e49e0b9558ca23891b478"
+      url "https://github.com/drnachio/postext/releases/download/v1.70.4/postext-linux-x64"
+      sha256 "9b94d0d4c5a50ae4e0a2ddb4f55223d0f645641498473f836c49cde5db2f080e"
     end
   end
 
